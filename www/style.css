@@ -1,0 +1,23 @@
+.header__brand {
+  padding-top: 0;
+}
+.header__brandName h3 {
+  margin-top: 3.2rem;
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+.header__brandName h1 {
+  font-size: clamp(3.6rem, 10vw, 8.2rem);
+  line-height: 1;
+}
+
+.header__brandImage {
+  width: clamp(5.4rem, 15vw, 15.5rem);
+}
+
+@media (min-width: 1710px) {
+  .header__brandImage {
+    margin-left: -180px;
+  }
+}
