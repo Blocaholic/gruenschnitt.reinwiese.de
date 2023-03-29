@@ -13,16 +13,11 @@
 
 ## on launch
 
-Remove 'beta' from links:
+- Remove 'error_reporting...' from index.php
 
-- https://beta.reinwiese.de/css/default.css (html.html)
-- https://beta.reinwiese.de/images/logo.svg (html.html)
+## issues
 
-Remove 'error_reporting...' from index.php
-
-# issues
-
-# done
+## done
 
 - copyright
 - impressum
