@@ -3,9 +3,10 @@
 ## Prio A
 
 - home
-- gruenschnitt
+- dienstleistungen
 - maschinen
 - datenschutz
+- impressum
 
 ## Prio B
 
@@ -20,4 +21,3 @@
 ## done
 
 - copyright
-- impressum
