@@ -2,15 +2,12 @@
 
 ## Prio A
 
-- home
-- dienstleistungen
-- maschinen
-- datenschutz
-- impressum
-
 ## Prio B
 
 - SEO
+- Foto Häcksler
+- Foto Heckenschere
+- Foto Allroundgreifer
 
 ## on launch
 
@@ -20,4 +17,9 @@
 
 ## done
 
+- home
+- dienstleistungen
+- maschinen
+- datenschutz
+- impressum
 - copyright
